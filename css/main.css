@@ -4,7 +4,11 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Arial Narrow';   
+    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Arial Narrow', arial;*/
+
+    /*font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif*/
+
 }
 .text{
     color: #145ea7;
